@@ -1,27 +1,39 @@
-# Woolfy
-## Problem:
-Its goal is to revolutionize the wool industry by offering a centralized platform for farmers to showcase their wool, enabling companies to procure it, and empowering consumers to access a diverse range of finished wool products."
+## Woolfy: Revolutionizing the Wool Industry
 
-#### GitHub Repository Links:
-- Frontend: [https://github.com/SoulNikhar/woolfyproduct] 
-- Backend : [https://github.com/SoulNikhar/WoofyBackEnd]
+### Problem Statement:
+The wool industry faces significant challenges due to the lack of a centralized platform. Farmers struggle to showcase their wool, companies find it difficult to procure high-quality wool, and consumers lack access to a diverse range of finished wool products.
 
-### FrontEnd Setup :  
+### Solution:
+Woolfy aims to revolutionize the wool industry by providing a centralized platform. Farmers can list their wool, companies can easily purchase it, and consumers can access a wide variety of finished wool products. This platform fosters transparency, efficiency, and convenience for all stakeholders in the wool supply chain.
 
-###### Navigate to the front-end directory and install dependencies:
-cd woolfyproduct
-npm install
- 
-###### Start the local development server:
-npm run dev
+## GitHub Repository Links
+### Frontend: https://github.com/SoulNikhar/woolfyproduct
+### Backend: https://github.com/SoulNikhar/WoofyBackEnd
 
-### BackEnd Setup :  
+## Backend Setup
 
-###### Navigate to the Back-end directory and install dependencies:
-cd WoofyBackEnd
-npm install
- 
-###### Start the local development server:
-npm start
+### Navigate to the back-end directory and install dependencies:
 
-###### Open your browser and go to http://localhost:5173/
+> cd WoofyBackEnd
+>  
+> npm install 
+
+### Start the local development server:
+> npm start
+
+
+## Frontend Setup
+
+### Navigate to the front-end directory and install dependencies:
+##### In a new terminal to avoid conflicts
+> cd woolfyproduct
+>  
+> npm install
+
+### Start the local development server:
+> npm run dev 
+
+
+
+### Open your browser and go to:
+### http://localhost:5173/
